@@ -1,0 +1,30 @@
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\bin\Debug\net9.0\appsettings.Development.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\bin\Debug\net9.0\appsettings.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\bin\Debug\net9.0\OverCome with StaticFile.staticwebassets.runtime.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\bin\Debug\net9.0\OverCome with StaticFile.staticwebassets.endpoints.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\bin\Debug\net9.0\OverCome with StaticFile.exe
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\bin\Debug\net9.0\OverCome with StaticFile.deps.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\bin\Debug\net9.0\OverCome with StaticFile.runtimeconfig.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\bin\Debug\net9.0\OverCome with StaticFile.dll
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\bin\Debug\net9.0\OverCome with StaticFile.pdb
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\rpswa.dswa.cache.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\OverCome with StaticFile.GeneratedMSBuildEditorConfig.editorconfig
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\OverCome with StaticFile.AssemblyInfoInputs.cache
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\OverCome with StaticFile.AssemblyInfo.cs
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\OverCome with StaticFile.csproj.CoreCompileInputs.cache
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\OverCome with StaticFile.MvcApplicationPartsAssemblyInfo.cache
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\OverCome with StaticFile.sourcelink.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\rjimswa.dswa.cache.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\scopedcss\bundle\OverCome with StaticFile.styles.css
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\staticwebassets.build.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\staticwebassets.build.json.cache
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\staticwebassets.development.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\OverCome with StaticFile.dll
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\refint\OverCome with StaticFile.dll
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\OverCome with StaticFile.pdb
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\OverCome with StaticFile.genruntimeconfig.cache
+B:\dot_net_information\Asp_dot_net_core\Software_Poject\asp_dot_net_training\OverCome with StaticFile\obj\Debug\net9.0\ref\OverCome with StaticFile.dll

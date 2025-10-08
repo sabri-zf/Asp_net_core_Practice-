@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>OverCome_with_StaticFile</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="StaticFiles\css\StyleSheet.css" />
+    <Content Include="StaticFiles\html\index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="MyStaticFiles\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+</Project>
